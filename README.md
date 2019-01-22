@@ -1,0 +1,2 @@
+# latestBulma
+cssフレームワーク"Bulma"のfontawesomeのバージョンをfontawesomeの最新バージョンに合わせてみた
